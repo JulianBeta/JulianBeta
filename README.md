@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/jb-logo-dark.png">
+  <img src="assets/jb-logo-light.png" alt="JB monogram" width="96">
+</picture>
+
 # Hi, I'm Julian Betancourt Cuervo 👋
 
 **Lead QA Automation Engineer · Playwright SME · AI-Assisted Testing** — Bogotá, Colombia 🇨🇴
@@ -9,10 +14,11 @@ generation, self-healing, and evaluating LLM-powered products.
 
 > 🇪🇸 Ingeniero líder de automatización de QA. Mi sitio también está en español: [julianbeta.github.io/es](https://julianbeta.github.io/es/)
 
-[![Website](https://img.shields.io/badge/Website-julianbeta.github.io-2EC4B6?style=flat-square)](https://julianbeta.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian%20Betancourt-20A4F3?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/julian-betancourt-cuervo-a05820ab/)
-[![CV](https://img.shields.io/badge/CV-English%20PDF-FF3366?style=flat-square)](https://julianbeta.github.io/cv/Julian-Betancourt-CV.pdf)
-[![Hoja de vida](https://img.shields.io/badge/Hoja%20de%20vida-PDF%20en%20espa%C3%B1ol-FF3366?style=flat-square)](https://julianbeta.github.io/cv/Julian-Betancourt-CV-ES.pdf)
+[![Website](https://img.shields.io/badge/Website-julianbeta.github.io-011627?style=for-the-badge&labelColor=0A2540&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IiMyRUM0QjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMyAxMmE5IDkgMCAxIDAgMTggMGE5IDkgMCAwIDAtMTggMG0uNi0zaDE2LjhNMy42IDE1aDE2LjgiLz48cGF0aCBkPSJNMTEuNSAzYTE3IDE3IDAgMCAwIDAgMThtMS0xOGExNyAxNyAwIDAgMSAwIDE4Ii8%2BPC9nPjwvc3ZnPg%3D%3D)](https://julianbeta.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian%20Betancourt-011627?style=for-the-badge&labelColor=0A2540&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IiMyMEE0RjMiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNOCAxMXY1bTAtOHYuMDFNMTIgMTZ2LTVtNCA1di0zYTIgMiAwIDEgMC00IDAiLz48cGF0aCBkPSJNMyA3YTQgNCAwIDAgMSA0LTRoMTBhNCA0IDAgMCAxIDQgNHYxMGE0IDQgMCAwIDEtNCA0SDdhNCA0IDAgMCAxLTQtNHoiLz48L2c%2BPC9zdmc%2B)](https://www.linkedin.com/in/julian-betancourt-cuervo-a05820ab/)
+[![Email](https://img.shields.io/badge/Email-carramplancha%40gmail.com-011627?style=for-the-badge&labelColor=0A2540&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IiNGRjMzNjYiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMyA3YTIgMiAwIDAgMSAyLTJoMTRhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMnoiLz48cGF0aCBkPSJtMyA3bDkgNmw5LTYiLz48L2c%2BPC9zdmc%2B)](mailto:carramplancha@gmail.com)
+[![CV](https://img.shields.io/badge/CV-English%20PDF-FF3366?style=for-the-badge&labelColor=0A2540&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IiNGNkY3RjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMTQgM3Y0YTEgMSAwIDAgMCAxIDFoNCIvPjxwYXRoIGQ9Ik0xNyAyMUg3YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDdsNSA1djExYTIgMiAwIDAgMS0yIDIiLz48cGF0aCBkPSJNMTEgMTIuNWExLjUgMS41IDAgMCAwLTMgMHYzYTEuNSAxLjUgMCAwIDAgMyAwbTItNC41bDEuNSA2bDEuNS02Ii8%2BPC9nPjwvc3ZnPg%3D%3D)](https://julianbeta.github.io/cv/Julian-Betancourt-CV.pdf)
+[![Hoja de vida](https://img.shields.io/badge/Hoja%20de%20vida-PDF%20en%20espa%C3%B1ol-FF3366?style=for-the-badge&labelColor=0A2540&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48ZyBmaWxsPSJub25lIiBzdHJva2U9IiNGNkY3RjgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIyIj48cGF0aCBkPSJNMTQgM3Y0YTEgMSAwIDAgMCAxIDFoNCIvPjxwYXRoIGQ9Ik0xNyAyMUg3YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDdsNSA1djExYTIgMiAwIDAgMS0yIDIiLz48cGF0aCBkPSJNMTEgMTIuNWExLjUgMS41IDAgMCAwLTMgMHYzYTEuNSAxLjUgMCAwIDAgMyAwbTItNC41bDEuNSA2bDEuNS02Ii8%2BPC9nPjwvc3ZnPg%3D%3D)](https://julianbeta.github.io/cv/Julian-Betancourt-CV-ES.pdf)
 
 ## 🧰 Toolbox
 
