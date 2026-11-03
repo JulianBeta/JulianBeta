@@ -33,7 +33,7 @@ generation, self-healing, and evaluating LLM-powered products.
 | Project | What it shows | Status |
 |---|---|---|
 | [julianbeta.github.io](https://github.com/JulianBeta/JulianBeta.github.io) | Portfolio that tests itself: Playwright E2E, axe-core accessibility, link & SEO checks gating every deploy | ✅ Live |
-| [playwright-pom-saucedemo](https://github.com/JulianBeta/playwright-pom-saucedemo) | Playwright + CucumberJS BDD framework, Page Object Model, cross-browser parallel runs, HTML reports | ✅ Live |
+| [playwright-pom-saucedemo](https://github.com/JulianBeta/playwright-pom-saucedemo) | TypeScript BDD + Page Object Model: 99 scenarios × 3 browsers, visual & a11y checks, 16 documented bugs as expected-failure tests · [live report](https://julianbeta.github.io/playwright-pom-saucedemo/) | ✅ Live |
 | [Break-Into-AI-Testing](https://github.com/JulianBeta/Break-Into-AI-Testing) | Course work: red-teaming and evaluating LLM chatbots with Promptfoo | 📚 In progress |
 | LLM Eval & Red Team | Guardrail tests, LLM-as-a-judge rubrics, local vs. cloud model comparisons in CI | 🛠️ Coming soon |
 | Playwright MCP · AI-assisted testing | Test generation from user stories + self-healing locator experiments | 🛠️ Coming soon |
