@@ -45,6 +45,14 @@ generation, self-healing, and evaluating LLM-powered products.
 | Playwright MCP · AI-assisted testing | Test generation from user stories + self-healing locator experiments | 🛠️ Coming soon |
 | OAuth / OIDC API security tests | Token exchange, expiry, signature tampering, redirect-URI and RBAC matrix | 🛠️ Coming soon |
 
+## 🤝 Development collaborations
+
+| Client | Site | Built with |
+|---|---|---|
+| Gloria Norato · Hair Design Studio | [glorianorato.netlify.app](https://glorianorato.netlify.app) · [repo](https://github.com/JulianBeta/gloria-norato-web) | React 19 · Vite · Netlify Functions · Instagram API · tested with Playwright + axe-core |
+| Laura Moth · Tattoo Artist | [laumoth.com](https://laumoth.com) · [repo](https://github.com/JulianBeta/laumoth_webpage) | React · Vite · Swiper |
+| Juan Pablo Huston · Photography | [juanpablohuston.com](https://juanpablohuston.com) | Next.js 16 · TypeScript · Tailwind CSS 4 |
+
 ## ✍️ Latest posts
 
 <!-- BLOG-POST-LIST:START -->
