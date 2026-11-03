@@ -9,9 +9,10 @@ generation, self-healing, and evaluating LLM-powered products.
 
 > 🇪🇸 Ingeniero líder de automatización de QA. Mi sitio también está en español: [julianbeta.github.io/es](https://julianbeta.github.io/es/)
 
-[![Website](https://img.shields.io/badge/Website-julianbeta.github.io-34d399?style=flat-square)](https://julianbeta.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian%20Betancourt-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/julian-betancourt-cuervo-a05820ab/)
-[![CV](https://img.shields.io/badge/CV-Download%20PDF-7aa2ff?style=flat-square)](https://julianbeta.github.io/cv/Julian-Betancourt-CV.pdf)
+[![Website](https://img.shields.io/badge/Website-julianbeta.github.io-2EC4B6?style=flat-square)](https://julianbeta.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Julian%20Betancourt-20A4F3?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/julian-betancourt-cuervo-a05820ab/)
+[![CV](https://img.shields.io/badge/CV-English%20PDF-FF3366?style=flat-square)](https://julianbeta.github.io/cv/Julian-Betancourt-CV.pdf)
+[![Hoja de vida](https://img.shields.io/badge/Hoja%20de%20vida-PDF%20en%20espa%C3%B1ol-FF3366?style=flat-square)](https://julianbeta.github.io/cv/Julian-Betancourt-CV-ES.pdf)
 
 ## 🧰 Toolbox
 
